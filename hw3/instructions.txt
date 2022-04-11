@@ -1,0 +1,23 @@
+Hi, 
+
+To run my program, copy the first sequence you want to run into the seq1.fa file. Paste the sequence in the second line under the NAME. 
+
+Copy the second sequence you want to run into the seq2.fa file. Paste the sequence in the second line again under the NAME. In both cases, it must be pasted under the name, in the second line, or the program will not run. 
+
+There are two files. The first is "without_gap_affine.py" solves task 1 of the homework. To run, type 
+
+python3 without_gap_affine.py 
+
+in the terminal window. You will see the output of the score and the alignment in the terminal window. 
+
+
+The second file "with_affine_gap.py" solves the task 2 of the homework. To run it, type 
+
+python3 with_affine_gap.py 
+
+in the terminal window. Again, you will see the output of the score and the alignment in the terminal window when using the algorithm with affine gap. 
+
+If you have questions, feel free to email me at a987f052@ku.edu. 
+
+Thanks, 
+Anna 

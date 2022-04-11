@@ -1,0 +1,21 @@
+Hi, 
+
+To run the file type 
+
+"python3 fritz_anna_hw4.py > output.txt" 
+
+into the terminal window. This will redirect the output from standard out to the file "output.txt" where you can see the result of alignment. 
+
+Running the program also produces a file called "hmm_trimmed.txt". Don't be alarmed. This file is needed for the program to run as it is a trimmed version of the hmm file. When the program runs, it creates this file with the trimmed HMM sequence so the HMM can be taken into a data frame. DONT DELETE THIS FILE. It was the only way I could think to make it work. 
+
+The program does take a few seconds to run. I would say around a minute. But it does run and runs for me on my MacOS using python3. 
+
+If you want to change the protein sequence, you can put whatever one you want in the seq.fa file. Just make sure it is in fasta form with 
+
+">NAME
+sewfoaneoicnaef" 
+
+or else the program will not run correctly.  
+
+Thanks, 
+Anna Fritz 
